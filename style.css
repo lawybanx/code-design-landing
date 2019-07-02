@@ -176,7 +176,7 @@ h4 {
 }
 
 i {
-  font-size: 60px;
+  font-size: 70px;
   color: rgb(231, 230, 230);
 }
 
@@ -210,7 +210,7 @@ a i:hover {
 }
 
 .overflow {
-  box-shadow: inset 0 0 0 1000px rgba(93, 90, 90, 0.4);
+  box-shadow: inset 0 0 0 1000px rgba(29, 29, 29, 0.4);
   transition: 0.5s;
 }
 
