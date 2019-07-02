@@ -14,7 +14,7 @@ header {
     "nav"
     "hero-text";
   grid-template-rows: 1fr 6fr;
-  background: url(images/cover.jpg) no-repeat;
+  background: url(images/cover.jpg) no-repeat center;
   background-size: cover;
   color: white;
 }
